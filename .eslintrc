@@ -1,0 +1,11 @@
+{
+	"extends": ["airbnb", "prettier", "prettier/react"],
+	"env": {
+		"browser": true,
+		"jest": true
+	},
+	"rules": {
+		"max-line-length": [true, 100]
+	},
+	"plugins": ["prettier"]
+}
