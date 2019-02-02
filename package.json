@@ -1,0 +1,9 @@
+{
+  "name": "chess-with-react-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luddwichr/chess-with-react-redux.git",
+  "author": "LR",
+  "license": "MIT",
+  "private": true
+}
