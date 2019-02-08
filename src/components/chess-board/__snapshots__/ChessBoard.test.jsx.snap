@@ -1,0 +1,1433 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChessBoard should render the chess board from black's point of view 1`] = `
+<div
+  className="ChessBoard"
+  style={
+    Object {
+      "direction": "rtl",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    a
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    b
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    c
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    d
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    e
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    f
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    g
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    h
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    a
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    b
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    c
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    d
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    e
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    f
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    g
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    h
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    a
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    b
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    c
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    d
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    e
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    f
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    g
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    h
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    a
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    b
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    c
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    d
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    e
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    f
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    g
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    h
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    a
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    b
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    c
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    d
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    e
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    f
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    g
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    h
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    a
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    b
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    c
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    d
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    e
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    f
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    g
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    h
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    a
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    b
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    c
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    d
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    e
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    f
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    g
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    h
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    a
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    b
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    c
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    d
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    e
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    f
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    g
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    h
+    , 
+    8
+  </div>
+</div>
+`;
+
+exports[`ChessBoard should render the chess board from white's point of view 1`] = `
+<div
+  className="ChessBoard"
+  style={
+    Object {
+      "direction": "ltr",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    a
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    b
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    c
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    d
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    e
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    f
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    g
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    h
+    , 
+    8
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    a
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    b
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    c
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    d
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    e
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    f
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    g
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    h
+    , 
+    7
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    a
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    b
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    c
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    d
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    e
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    f
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    g
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    h
+    , 
+    6
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    a
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    b
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    c
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    d
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    e
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    f
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    g
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    h
+    , 
+    5
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    a
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    b
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    c
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    d
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    e
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    f
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    g
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    h
+    , 
+    4
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    a
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    b
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    c
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    d
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    e
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    f
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    g
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    h
+    , 
+    3
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    a
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    b
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    c
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    d
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    e
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    f
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    g
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    h
+    , 
+    2
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    a
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    b
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    c
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    d
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    e
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    f
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    g
+    , 
+    1
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    h
+    , 
+    1
+  </div>
+</div>
+`;
