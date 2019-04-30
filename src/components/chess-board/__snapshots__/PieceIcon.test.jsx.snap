@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PieceIcon should display a black bishop 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-black-bishop"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a black king 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-black-king"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a black knight 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-black-knight"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a black pawn 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-black-pawn"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a black queen 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-black-queen"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a black rook 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-black-rook"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a white bishop 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-white-bishop"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a white king 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-white-king"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a white knight 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-white-knight"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a white pawn 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-white-pawn"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a white queen 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-white-queen"
+  />
+</svg>
+`;
+
+exports[`PieceIcon should display a white rook 1`] = `
+<svg
+  style={
+    Object {
+      "display": "block",
+    }
+  }
+  viewBox="0 0 44 44"
+>
+  <use
+    xlinkHref="undefined#icon-white-rook"
+  />
+</svg>
+`;

@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import React from 'react';
+import PieceIcon from './PieceIcon';
 
 function getSquareColor(file, rank) {
   const oddFiles = ['a', 'c', 'e', 'g'];
@@ -10,9 +11,10 @@ function getSquareColor(file, rank) {
 
 const Square = props => {
   const {file, rank} = props;
+  const color = getSquareColor(file, rank);
   return (
-    <div style={{backgroundColor: getSquareColor(file, rank)}}>
-      {file}, {rank}
+    <div style={{backgroundColor: color}}>
+      <PieceIcon player="black" piece="knight" />
     </div>
   );
 };
