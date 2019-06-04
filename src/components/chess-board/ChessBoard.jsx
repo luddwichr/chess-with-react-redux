@@ -19,7 +19,7 @@ const ChessBoard = props => {
 };
 
 ChessBoard.propTypes = {
-  orientation: PropTypes.oneOf('white', 'black').isRequired,
+  orientation: PropTypes.oneOf(['white', 'black']).isRequired,
 };
 
 export default ChessBoard;

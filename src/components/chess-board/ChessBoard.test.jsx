@@ -3,12 +3,13 @@ import {create} from 'react-test-renderer';
 import ChessBoard from './ChessBoard';
 
 describe('ChessBoard', () => {
-  xit("should render the chess board from white's point of view", () => {
-    const element = create(<ChessBoard reverse={false} />);
+  it("should render the chess board from white's point of view", () => {
+    const element = create(<ChessBoard orientation="white" />);
     expect(element).toMatchSnapshot();
   });
-  xit("should render the chess board from black's point of view", () => {
-    const element = create(<ChessBoard reverse />);
+
+  it("should render the chess board from black's point of view", () => {
+    const element = create(<ChessBoard orientation="black" />);
     expect(element).toMatchSnapshot();
   });
 });
