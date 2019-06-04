@@ -1,0 +1,2585 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChessBoard should render the chess board from black's point of view 1`] = `
+<div
+  className="ChessBoard"
+  style={
+    Object {
+      "direction": "rtl",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`ChessBoard should render the chess board from white's point of view 1`] = `
+<div
+  className="ChessBoard"
+  style={
+    Object {
+      "direction": "ltr",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "saddlebrown",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "burlywood",
+      }
+    }
+  >
+    <svg
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+      viewBox="0 0 44 44"
+    >
+      <use
+        xlinkHref="undefined#icon-black-knight"
+      />
+    </svg>
+  </div>
+</div>
+`;
